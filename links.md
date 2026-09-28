@@ -1,0 +1,81 @@
+# Official Links
+
+## Normal Man Labs
+
+Official website:
+
+https://normalmanlabs.com/
+
+Use this URL for:
+
+- company profiles
+- creator profiles
+- organization pages
+- social bios
+- press references
+- developer or publisher pages
+
+## Pawn'd Chess
+
+Official product page:
+
+https://normalmanlabs.com/pawnd/
+
+Use this URL for:
+
+- Pawn'd Chess profiles
+- product listings
+- game-related articles
+- video descriptions
+- press coverage
+- game-specific social posts
+
+## Steam
+
+Pawn'd Chess on Steam:
+
+https://store.steampowered.com/app/5102640/Pawnd_Chess/
+
+Use this URL when directing users to:
+
+- wishlist the game
+- view the Steam store page
+- access the demo
+- follow release information
+- purchase the game after release
+
+## Steam Creator Page
+
+Normal Man Labs:
+
+https://store.steampowered.com/dev/normalmanlabs
+
+Use this URL when referencing the official Normal Man Labs presence on Steam.
+
+## Linking Guidance
+
+For company-level pages, use:
+
+https://normalmanlabs.com/
+
+For Pawn'd Chess-specific pages, use:
+
+https://normalmanlabs.com/pawnd/
+
+Where appropriate, include both the official Pawn'd Chess page and the Steam store page.
+
+## SEO and GEO Consistency
+
+Use the exact company name:
+
+**Normal Man Labs**
+
+Use the exact product name:
+
+**Pawn'd Chess**
+
+Keep the relationship consistent:
+
+**Normal Man Labs develops Pawn'd Chess.**
+
+Avoid creating alternate company names, abbreviations, or product spellings in public-facing profiles unless required by a platform.
