@@ -2,6 +2,24 @@
 
 Official press kit for Normal Man Labs and Pawn'd Chess.
 
+## Release Status
+
+_Last updated: November 7, 2026_
+
+- **Released on Steam:** November 4, 2026
+- **Price:** $6.00 USD (see Steam for regional pricing and current discounts)
+- **Platforms:** Windows, macOS, and SteamOS + Linux (native Linux build)
+- **Steam Deck:** built and tested on Steam Deck; Valve's compatibility rating is pending
+- **Buy on Steam:** https://store.steampowered.com/app/5102640/Pawnd_Chess/
+
+## Free Review Keys
+
+Press, reviewers, streamers, and bloggers of any size are welcome to a free Steam key for Pawn'd Chess. Email support@normalmanlabs.com or reply to the outreach email and ask. Keys are sent personally by the developer.
+
+## Contact
+
+Press and review-key requests: support@normalmanlabs.com
+
 ## About Normal Man Labs
 
 Normal Man Labs is an independent software studio creating games, apps, and developer tools.
@@ -50,7 +68,7 @@ See `links.md` for canonical URLs.
 See:
 
 - `company.md` for Normal Man Labs descriptions
-- `pawnd-chess.md` for Pawn'd Chess descriptions and feature information
+- `pawnd_chess.md` for Pawn'd Chess descriptions and feature information
 
 ## Naming
 

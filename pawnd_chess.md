@@ -8,6 +8,20 @@ Pawn'd Chess is a Steam Deck-first chess trainer from Normal Man Labs built arou
 
 Pawn'd Chess helps players improve by playing real chess against human-like Maia opponents from roughly 600 to 2600 Elo, with ranked and practice modes, full FEN tools, saved positions, local hotseat, controller-first navigation, and accessibility-minded design.
 
+## Release Status
+
+_Last updated: November 7, 2026_
+
+- **Released on Steam:** November 4, 2026
+- **Price:** $6.00 USD (see Steam for regional pricing and current discounts)
+- **Platforms:** Windows, macOS, and SteamOS + Linux (native Linux build)
+- **Steam Deck:** built and tested on Steam Deck; Valve's compatibility rating is pending
+- **Buy on Steam:** https://store.steampowered.com/app/5102640/Pawnd_Chess/
+
+## Free Review Keys
+
+Press, reviewers, streamers, and bloggers of any size are welcome to a free Steam key for Pawn'd Chess. Email support@normalmanlabs.com or reply to the outreach email and ask. Keys are sent personally by the developer.
+
 ## Overview
 
 Pawn'd Chess is a chess trainer designed to meet players at their current skill level.
@@ -30,11 +44,13 @@ The game is designed around controller-first navigation and Steam Deck play, wit
 - Load FEN positions
 - Copy and share FEN strings
 - Save and favorite positions for later study
-- Local hotseat multiplayer
+- Local hotseat versus: two players on one device
+- Steam Achievements
 - Complete chess rules
 - Controller-first navigation
 - Steam Deck-first design
 - Accessibility-minded interface and options
+- Native on Windows, macOS, and SteamOS + Linux
 
 ## Training and Position Tools
 
@@ -78,7 +94,11 @@ Accessibility is considered throughout the game, including interface readability
 
 ## Local Multiplayer
 
-Pawn'd Chess includes local hotseat multiplayer, allowing two players to play classic chess together on one device.
+Pawn'd Chess includes local hotseat multiplayer, allowing two players to play classic chess against each other on one device.
+
+## Platforms
+
+Pawn'd Chess is available on Steam for Windows, macOS, and SteamOS + Linux, with a native Linux build. It is built and tested on Steam Deck; Valve's official Steam Deck compatibility rating is pending.
 
 ## Official Links
 

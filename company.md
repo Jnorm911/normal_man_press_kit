@@ -12,6 +12,10 @@ Normal Man Labs is an independent software studio creating games, apps, and deve
 
 Normal Man Labs is an independent software studio creating games, apps, and developer tools. Its games include Pawn'd Chess, a Steam Deck-first chess trainer built around human-like opponents, controller support, accessibility, and practical improvement.
 
+## Current Status
+
+Pawn'd Chess released on Steam on November 4, 2026 for Windows, macOS, and SteamOS + Linux.
+
 ## Company Overview
 
 Normal Man Labs develops software across games, apps, and developer tools.

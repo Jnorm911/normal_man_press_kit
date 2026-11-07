@@ -38,11 +38,9 @@ https://store.steampowered.com/app/5102640/Pawnd_Chess/
 
 Use this URL when directing users to:
 
-- wishlist the game
+- buy the game (released November 4, 2026)
 - view the Steam store page
-- access the demo
-- follow release information
-- purchase the game after release
+- follow updates and patch notes
 
 ## Steam Creator Page
 
