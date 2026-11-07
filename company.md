@@ -2,15 +2,19 @@
 
 ## One-Line Description
 
-Normal Man Labs is an independent software studio creating games, apps, and developer tools.
+Normal Man Labs is an independent studio making games, mobile apps, and web tools.
 
 ## Short Description
 
-Normal Man Labs is an independent software studio creating games, apps, and developer tools with a focus on practical products, accessibility, and thoughtful design.
+Normal Man Labs is an independent studio making games, mobile apps, and web tools, with a focus on practical products, accessibility, and thoughtful design.
 
 ## Game-Focused Description
 
-Normal Man Labs is an independent software studio creating games, apps, and developer tools. Its games include Pawn'd Chess, a Steam Deck-first chess trainer built around human-like opponents, controller support, accessibility, and practical improvement.
+Normal Man Labs is an independent studio making games, mobile apps, and web tools. Its games include Pawn'd Chess, a Steam Deck-first chess trainer built around human-like opponents, controller support, accessibility, and practical improvement.
+
+## Press Boilerplate
+
+Normal Man Labs is an independent studio founded in 2026, making games, mobile apps, and web tools. Its work includes Pawn'd Chess on Steam. Learn more at normalmanlabs.com.
 
 ## Current Status
 
@@ -18,19 +22,17 @@ Pawn'd Chess released on Steam on November 4, 2026 for Windows, macOS, and Steam
 
 ## Company Overview
 
-Normal Man Labs develops software across games, apps, and developer tools.
+Normal Man Labs makes games, mobile apps, and web tools.
 
 The company focuses on building focused products with clear interfaces, practical features, and strong usability across the platforms they are designed for.
 
 Its game-development work includes Pawn'd Chess, a chess trainer designed around human-like opponents, controller-first navigation, Steam Deck support, accessibility-minded design, and flexible training tools.
 
-## Brand Structure
+## Brand Name
 
-- **Normal Man Labs** — primary company
-- **Normal Man Games** — games division
-- **Normal Man Apps** — apps division
+Always use **Normal Man Labs** as the company name in public: press, SEO, GEO, creator profiles, store listings, and social bios.
 
-For SEO, GEO, press references, creator profiles, and public company pages, **Normal Man Labs** should remain the primary entity name.
+The name "Normal Man Games" may appear as an account name on a specific platform. It is not a separate company or division. Coverage should still credit **Normal Man Labs**.
 
 ## Approved Company Relationship Wording
 
@@ -41,10 +43,6 @@ Use wording such as:
 or:
 
 > Pawn'd Chess is a chess trainer from Normal Man Labs.
-
-If the game-development division is relevant:
-
-> Pawn'd Chess is developed by Normal Man Games, the game-development division of Normal Man Labs.
 
 ## Official Website
 

@@ -42,6 +42,28 @@ Use this URL when directing users to:
 - view the Steam store page
 - follow updates and patch notes
 
+## Press Kit
+
+Online press kit:
+
+https://normalmanlabs.com/pawnd/press/
+
+All logos, screenshots, and a fact sheet in one download:
+
+https://normalmanlabs.com/assets/pawnd/pawnd-chess-press-kit.zip
+
+Use these URLs in outreach emails and when press ask for assets.
+
+## Trailer
+
+https://www.youtube.com/watch?v=dDPR-8b6zUg
+
+## Discord
+
+Pawn'd Chess Discord:
+
+https://discord.gg/BP8JWAEae9
+
 ## Steam Creator Page
 
 Normal Man Labs:

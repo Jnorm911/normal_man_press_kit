@@ -22,16 +22,14 @@ Press and review-key requests: support@normalmanlabs.com
 
 ## About Normal Man Labs
 
-Normal Man Labs is an independent software studio creating games, apps, and developer tools.
+Normal Man Labs is an independent studio making games, mobile apps, and web tools.
 
-## Brand Structure
+## Brand Name
 
-- **Normal Man Labs** — primary public company/entity
-- **Normal Man Games** — game-development division
-- **Normal Man Apps** — app-development division
+- **Normal Man Labs** — the company; use this name everywhere in public
 - **Pawn'd Chess** — chess game developed by Normal Man Labs
 
-For public-facing profiles, press references, SEO, and GEO consistency, use **Normal Man Labs** as the primary company name unless a specific division must be referenced.
+"Normal Man Games" may appear as an account name on a specific platform. It is not a separate company or division; credit **Normal Man Labs**.
 
 ## Included Assets
 
