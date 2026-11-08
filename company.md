@@ -14,7 +14,7 @@ Normal Man Labs is an independent studio making games, mobile apps, and web tool
 
 ## Press Boilerplate
 
-Normal Man Labs is an independent studio founded in 2026, making games, mobile apps, and web tools. Its work includes Pawn'd Chess on Steam. Learn more at normalmanlabs.com.
+Normal Man Labs is a one-person independent studio in Utah, USA, founded in 2026 by Jay "Tentacles". It makes games, mobile apps, and web tools, and its work includes Pawn'd Chess on Steam. Learn more at normalmanlabs.com.
 
 ## Current Status
 

@@ -10,9 +10,10 @@ Pawn'd Chess helps players improve by playing real chess against human-like Maia
 
 ## Release Status
 
-_Last updated: November 7, 2026_
+_Last updated: November 8, 2026_
 
 - **Released on Steam:** November 4, 2026
+- **Developer:** Normal Man Labs, a one-person studio (Jay "Tentacles") in Utah, USA
 - **Price:** $6.00 USD (see Steam for regional pricing and current discounts)
 - **Platforms:** Windows, macOS, and SteamOS + Linux (native Linux build)
 - **Steam Deck:** built and tested on Steam Deck; Valve's compatibility rating is pending
@@ -20,7 +21,7 @@ _Last updated: November 7, 2026_
 
 ## Free Review Keys
 
-Press, reviewers, streamers, and bloggers of any size are welcome to a free Steam key for Pawn'd Chess. Email support@normalmanlabs.com or reply to the outreach email and ask. Keys are sent personally by the developer.
+Press, reviewers, streamers, and bloggers of any size are welcome to a free Steam key for Pawn'd Chess. Email support@normalmanlabs.com or reply to the outreach email and ask. Keys are sent personally by Jay, the developer.
 
 ## Overview
 
@@ -112,7 +113,7 @@ https://store.steampowered.com/app/5102640/Pawnd_Chess/
 
 ## Developer
 
-Pawn'd Chess is developed by Normal Man Labs.
+Pawn'd Chess is developed by Normal Man Labs, a one-person studio in Utah, USA run by Jay "Tentacles".
 
 ## Approved Relationship Wording
 
