@@ -52,6 +52,9 @@ All on the release build, fullscreen, controller overlay on, cursor hidden, 1080
 | R6 | Favorites | 4–5 s | Save the position, then reopen it from Favorites. |
 | R7 | Local hotseat (optional) | 5–6 s | Two players, one device. |
 | R8 | Title screen, release build | 6–8 s | No demo text, no Wishlist button. Used for the end card. |
+| R9 | Readable-font gameplay (screenshot + 4–5 s clip) | 4–5 s | Settings → Display: Font **Atkinson Hyperlegible**, UI scale **XL**, then a few moves. Shows the accessibility option; captions can say "Hyperlegible font option". |
+
+**Screenshot framing:** keep the default Veneficium font in most shots; it matches the logo. For the first screenshot (the one press and Steam thumbnails show), frame the board and pieces large and keep the move list small, since blackletter notation is hard to read at thumbnail size.
 
 ## Steam Deck imagery
 
