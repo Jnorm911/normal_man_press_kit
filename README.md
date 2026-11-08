@@ -4,13 +4,13 @@ Official press kit for Normal Man Labs and Pawn'd Chess.
 
 ## Release Status
 
-_Last updated: November 7, 2026_
+_Last updated: November 8, 2026_
 
 - **Released on Steam:** November 4, 2026
 - **Developer:** Normal Man Labs, a one-person studio (Jay "Tentacles") in Utah, USA
 - **Price:** $6.00 USD (see Steam for regional pricing and current discounts)
 - **Platforms:** Windows, macOS, and SteamOS + Linux (native Linux build)
-- **Steam Deck:** built and tested on Steam Deck; Valve's compatibility rating is pending
+- **Steam Deck:** built and tested on Steam Deck
 - **Buy on Steam:** https://store.steampowered.com/app/5102640/Pawnd_Chess/
 
 ## Free Review Keys

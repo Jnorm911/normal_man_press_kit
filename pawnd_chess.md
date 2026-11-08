@@ -16,7 +16,7 @@ _Last updated: November 8, 2026_
 - **Developer:** Normal Man Labs, a one-person studio (Jay "Tentacles") in Utah, USA
 - **Price:** $6.00 USD (see Steam for regional pricing and current discounts)
 - **Platforms:** Windows, macOS, and SteamOS + Linux (native Linux build)
-- **Steam Deck:** built and tested on Steam Deck; Valve's compatibility rating is pending
+- **Steam Deck:** built and tested on Steam Deck
 - **Buy on Steam:** https://store.steampowered.com/app/5102640/Pawnd_Chess/
 
 ## Free Review Keys
@@ -99,7 +99,7 @@ Pawn'd Chess includes local hotseat multiplayer, allowing two players to play cl
 
 ## Platforms
 
-Pawn'd Chess is available on Steam for Windows, macOS, and SteamOS + Linux, with a native Linux build. It is built and tested on Steam Deck; Valve's official Steam Deck compatibility rating is pending.
+Pawn'd Chess is available on Steam for Windows, macOS, and SteamOS + Linux, with a native Linux build. It is built and tested on Steam Deck.
 
 ## Official Links
 
